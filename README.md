@@ -5,7 +5,7 @@
 
 This repository consists of all projects done as part of Udacity's Product Manager nanodegree. 
 
-**Pre-conditions given:** Doordash is looking to automate food delivery using self-driving robots for trips that are less than 2 miles in order to reduce its operating costs and provide more reliable delivery times. The long term goal is that these delivery robots will navigate sidewalks fully autonomously. But initially, there may be times when manual intervention will be required. My team has been tasked with building a tool for the operations team-- to view the status of deliveries and remotely take control of robots that need intervention (ie: rerouting).
+**Pre-conditions given:** <em>Doordash is looking to automate food delivery using self-driving robots for trips that are less than 2 miles in order to reduce its operating costs and provide more reliable delivery times. The long term goal is that these delivery robots will navigate sidewalks fully autonomously. But initially, there may be times when manual intervention will be required. My team has been tasked with building a tool for the operations team-- to view the status of deliveries and remotely take control of robots that need intervention (ie: rerouting).</em>
 
 **Product Strategy** 
 - To create a business case: 
@@ -35,7 +35,7 @@ This repository consists of all projects done as part of Udacity's Product Manag
 
 **Product Development** 
 
-**Pre-conditions given:** The solution requires directions and distance between robot and destination (could be restaurant/delivery address). My engineering lead shared Google Distance Matrix API and Google Direction API s a reference to what information would be available when I leverage Doordash API to build. Reviewing the documentation, I noticed that walking and bicycling information is available via the API with rich attributes that can be leveraged to help the Operations team in multiple ways.
+**Pre-conditions given:** <em>The solution requires directions and distance between robot and destination (could be restaurant/delivery address). My engineering lead shared Google Distance Matrix API and Google Direction API s a reference to what information would be available when I leverage Doordash API to build. Reviewing the documentation, I noticed that walking and bicycling information is available via the API with rich attributes that can be leveraged to help the Operations team in multiple ways.</em>
 
 - To create Project Blueprint by creating Coordination Activities Map
 - To plan for sprint meeting: To identify sprint Goal,To prioritize Backlog containing user stories with detailed acceptance criteria, To write user stories that includes a detailed acceptance criteria (also called “definition of done”) which will be used to develop and test by the scrum team.
