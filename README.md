@@ -1,7 +1,4 @@
 # Auto_Dasher
-# Product Management Nanodegree
-
-# PROJECTS
 
 This repository consists of all projects done as part of Udacity's Product Manager nanodegree. 
 
